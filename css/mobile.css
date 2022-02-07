@@ -1,0 +1,6 @@
+@media (max-width:540px){
+    .cartas li{
+        margin-right: calc((100% - 120px) / 2);
+        margin-left: calc((100% - 120px) / 2);
+    }
+}
